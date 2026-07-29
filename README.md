@@ -1,6 +1,5 @@
 # Inside the Agent Loop: Hands-On with CrewAI Before Agent Studio
 
-**Agentic AI Training — Lab A | Day 1 | Module 2 | ~60 minutes**
 
 This lab walks you through building a 2-agent CrewAI crew inside a **Cloudera CML JupyterLab session** using **Azure OpenAI** as the LLM backend.
 
